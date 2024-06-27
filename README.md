@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm <Camila Apai>, a student at Brigham Young University-Idaho, passionate about software development and web development. Welcome to my GitHub profile!
+I'm Camila Apai, a student at Brigham Young University-Idaho, passionate about software development and web development. Welcome to my GitHub profile!
 
 ## About Me
 
