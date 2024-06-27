@@ -1,4 +1,4 @@
-# <Camila Apai>
+# Camila Apai
 
 Hello, GitHub! 👋
 
@@ -17,17 +17,17 @@ I'm Camila Apai, a student at Brigham Young University-Idaho, passionate about s
 
 ## Projects
 
-- [Handcrafted Heaven|JavaScript](https://github.com/MartaLyrical/handcraftedheaven)
-- [Guess the Number|Java](https://github.com/CamilaApai/Guess-the-Number-Game)
-- [Hangman|C++](https://github.com/CamilaApai/HangmanGame)
-- [Text Adventure|C#](https://github.com/CamilaApai/HangmanGame)
-- [Jumper|Python](https://github.com/CamilaApai/cse210-03)
+- [Handcrafted Heaven | JavaScript](https://github.com/MartaLyrical/handcraftedheaven)
+- [Guess the Number | Java](https://github.com/CamilaApai/Guess-the-Number-Game)
+- [Hangman | C++](https://github.com/CamilaApai/HangmanGame)
+- [Text Adventure | C#](https://github.com/CamilaApai/HangmanGame)
+- [Jumper | Python](https://github.com/CamilaApai/cse210-03)
 
 
 ## GitHub Statistics
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaApai&layout=compact&theme=radical)
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CamilaApai&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaApai&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CamilaApai&theme=radical)](https://git.io/streak-stats)
 
 ## Let's Connect!
 
