@@ -21,7 +21,7 @@ I'm <Camila Apai>, a student at Brigham Young University-Idaho, passionate about
 - [Guess the Number|Java](https://github.com/CamilaApai/Guess-the-Number-Game)
 - [Hangman|C++](https://github.com/CamilaApai/HangmanGame)
 - [Text Adventure|C#](https://github.com/CamilaApai/HangmanGame)
-- [Jumper|Python#](https://github.com/CamilaApai/cse210-03)
+- [Jumper|Python](https://github.com/CamilaApai/cse210-03)
 
 
 ## GitHub Statistics
@@ -31,6 +31,6 @@ I'm <Camila Apai>, a student at Brigham Young University-Idaho, passionate about
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](www.linkedin.com/in/camila-apai) profile.
+- Here is my [LinkedIn](https://www.linkedin.com/in/camila-apai/) profile.
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀  
