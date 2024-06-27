@@ -12,8 +12,8 @@ I'm <Camila Apai>, a student at Brigham Young University-Idaho, passionate about
 
 ## Technologies and Tools
 
-- Proficient in: <HTML, CSS, JavaScript, Java, C++, C#,  Python, GitHub, Visual Studio>
-- Skills: <Spanish, server-client data integration (PHP/JavaScript), database management (SQL/NoSQL), CRUD operations, interface design, problem-solving, teamwork, and collaboration>
+- Proficient in: HTML, CSS, JavaScript, Java, C++, C#,  Python, GitHub, Visual Studio
+- Skills: Spanish, server-client data integration (PHP/JavaScript), database management (SQL/NoSQL), CRUD operations, interface design, problem-solving, teamwork, and collaboration
 
 ## Projects
 
